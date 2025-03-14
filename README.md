@@ -1,7 +1,6 @@
 # Everything-IaC-aws-restart
 
-````markdown
-# Terraform with AWS: Documentation
+# Terraform with AWS
 
 > Note: When it says "install" a tool, just proceed to install it by your preferred method. This documentation does not provide detailed installation instructions.
 
@@ -26,7 +25,6 @@ Simply install Terraform. Afterwards, verify by running:
 ```bash
 terraform -help
 ```
-````
 
 ### 2. Install AWS CLI
 
